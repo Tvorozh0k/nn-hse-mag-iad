@@ -1,5 +1,7 @@
 # Lab 2
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tvorozh0k/nn-hse-mag-iad/blob/main/Data-Mining-Tools/lab2/Data_Mining_Tools_Lab_2.ipynb)
+
 ## Tasks
 
 Решить задачу классификации рукописных цифр на датасете MNIST https://www.kaggle.com/datasets/hojjatk/mnist-dataset. Правила следующие:
